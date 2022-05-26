@@ -1,0 +1,16 @@
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\WebDevelpment\Currency\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+D:\WebDevelpment\Currency\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+D:\WebDevelpment\Currency\DomainLayer\bin\Debug\net5.0\ref\DomainLayer.dll
+D:\WebDevelpment\Currency\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\staticwebassets\DomainLayer.StaticWebAssets.Manifest.cache
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\staticwebassets\DomainLayer.StaticWebAssets.xml
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\scopedcss\bundle\DomainLayer.styles.css
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\DomainLayer.RazorTargetAssemblyInfo.cache
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb
+D:\WebDevelpment\Currency\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.AssemblyReference.cache
