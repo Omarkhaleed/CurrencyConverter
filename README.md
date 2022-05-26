@@ -3,6 +3,10 @@
 
 # Description and Rules
 
---xcsxcsc
+ Markup : * Admin can add, edit and delete any currency.
+             
+          * Admin can explore all currencies or specific one by its name.
+          
+          * Admin can add, edit and delete any currency.
 
 
