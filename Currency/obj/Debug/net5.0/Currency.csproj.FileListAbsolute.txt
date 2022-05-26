@@ -1,0 +1,6 @@
+D:\WebDevelpment\Currency\Currency\obj\Debug\net5.0\Currency.csproj.AssemblyReference.cache
+D:\WebDevelpment\Currency\Currency\obj\Debug\net5.0\Currency.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebDevelpment\Currency\Currency\obj\Debug\net5.0\Currency.AssemblyInfoInputs.cache
+D:\WebDevelpment\Currency\Currency\obj\Debug\net5.0\Currency.AssemblyInfo.cs
+D:\WebDevelpment\Currency\Currency\obj\Debug\net5.0\Currency.csproj.CoreCompileInputs.cache
+D:\WebDevelpment\Currency\Currency\obj\Debug\net5.0\Currency.MvcApplicationPartsAssemblyInfo.cache
