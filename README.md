@@ -1,3 +1,8 @@
-# CurrencyConverter 
-## This project based on advanced archicture ( Onion Arch )
+# Currency Converter 
+## This project Based on Advanced Archicture ( Onion Architecture )
+
+# Description and Rules
+
+--xcsxcsc
+
 
