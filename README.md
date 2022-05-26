@@ -1,2 +1,3 @@
-# CurrencyConverter
-BackEnd Internship Project At Algoriza Company 
+# CurrencyConverter 
+## This project based on advanced archicture ( Onion Arch )
+
