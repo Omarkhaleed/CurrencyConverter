@@ -14,7 +14,7 @@
 
 
 ## General Information
--This project Based on Advanced Archicture ( Onion Architecture )
+- This project Based on Advanced Archicture ( Onion Architecture )
 - Project based on Rest Api
 - It contains 12 Api Functions
 - Login and Register based on .NET Auth Model
