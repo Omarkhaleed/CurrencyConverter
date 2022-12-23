@@ -24,7 +24,7 @@
 
 
 ## Technologies Used
-- Back End :   C# , ASP.NET Core , SQl Server , Linq , Entity Framework , Api
+- Back End :   C# , ASP.NET Core , SQl Server , Linq , Entity Framework , Api and Swagger UI
 
 
 
